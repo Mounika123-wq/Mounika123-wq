@@ -1,12 +1,9 @@
 - 👋 Hi, I’m @Mounika123-wq
-- 👀 I’m interested in ...Python 
-- 🌱 I’m currently learning ...Python
-- 💞️ I’m looking to collaborate on ...IT
+- 🔍 Data Enthusiast: Skilled in analyzing and interpreting complex data sets.
+- 📊 Power BI Developer: Creating dynamic and interactive dashboards.
+- ⚙️ Tools & Tech: Power BI, Excel, SQL, DAX, Python, Tableau .
+- 📚 Lifelong Learner: Always exploring new technologies and best practices in analytics.
+- 🧩 Problem Solver: Enjoy uncovering trends and solving business challenges with data.
 - 📫 How to reach me ...mounikareddy9152@gmail.com
-- 😄 Pronouns: ...She/her
-- ⚡ Fun fact: ...
 
-<!---
-Mounika123-wq/Mounika123-wq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
